@@ -1,22 +1,13 @@
-# Jeremy’s CCNA Mega Practical Lab – Configuration Files
+# Jeremy’s CCNA Mega Practical Lab — Configuration Files
 
-This repository contains all the configuration files I created while working through **Jeremy’s IT Lab Mega CCNA Practical Lab**.
+These are the configuration files I created while working through **Jeremy’s IT Lab Mega CCNA Practical Lab** for hands-on practice. I did not develop or author the lab content — all credit belongs to Jeremy’s IT Lab.
 
-The lab covers almost all major ccna networking concepts and topologies, including:
-
-- VLANs
-- Trunking
-- Routing (Static & Dynamic)
+This practice covered almost all of CCNA topics that is :
+- VLANs & trunking
+- Static & dynamic routing
 - EtherChannel
 - Spanning Tree Protocol (STP)
 - Access Control Lists (ACLs)
 - Network Address Translation (NAT)
-- And more...
+- and more...
 
-I completed each scenario step-by-step, building and testing configurations in line with CCNA-level best practices.
-
-These files can be useful for:
-
-- **Reference** while studying
-- **Revision** before exams
-- Anyone wanting to **follow along** with the same lab setup
